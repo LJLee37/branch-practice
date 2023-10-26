@@ -1,0 +1,5 @@
+# macOS DS STORE file
+.DS_STORE
+# executable file
+*.out
+
